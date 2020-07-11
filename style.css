@@ -1,0 +1,30 @@
+body{
+    background: #E5E5E5;
+    font-family: 'Poppins', sans-serif;
+}
+main, .container{
+    max-width: 870px;
+}
+
+.container .navbar a img{
+    max-width: 40px;
+}
+
+.profile-img{
+    max-width: 56px;
+}
+
+.headings{
+    font-size: 24px;
+    font-weight: 500;
+    padding: 15px;
+    padding-bottom: 0;
+}
+
+.blog-img{
+    width: 177px;
+}
+
+.top-section{
+
+}
